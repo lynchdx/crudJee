@@ -1,0 +1,7 @@
+1-. Crear base de datos de nombre comercio, el script se llama comercio.sql; este contiene las tablas y los
+procedimientos almacenados.
+
+2-. Para guardar las imágenes dentro del proyecto, es necesario cambiar la ruta de donde se guardan estos localmente,
+cambiar línea 57 en ProductoServlet.java.
+
+3-. Las librerías que se usan en el proyecto están dentro de carpeta utilidades.
